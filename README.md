@@ -2,6 +2,9 @@
 
 D365FSCM Language Switcher is a Chrome extension that allows you to quickly toggle the `&lng=en-us` parameter on any `dynamics.com` URL.
 
+This can also be found in the Chrome Web Store 
+https://chromewebstore.google.com/detail/d365fscm-language-switche/jkjdgbickbgfkfnoblbgaaonmkililob
+
 ## Features
 
 - Automatically sets the extension icon based on the presence of the `&lng=en-us` parameter in the URL.
